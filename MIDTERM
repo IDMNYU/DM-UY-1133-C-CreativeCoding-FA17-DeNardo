@@ -1,0 +1,125 @@
+Creative Coding Midterm project
+
+Summary
+
+The midterm project showcases skills and concept we have synthesized from our lessons,
+and reflect the creative spirit of the designer. It should share your fluency in coding, what you like about coding, 
+in the form of some narrative. We are always, as humans, telling stories. It is the universal constant.
+
+The format, subject, and method are all up to you. 
+
+Design Requirements
+
+Creative Prompts
+
+Narrative
+Personal
+Political
+Fictional
+Academic
+Analytical
+Organic
+Procedural
+
+Creative Goals
+
+Ask Questions
+Education
+inform
+challenge
+play
+conceal
+
+UI Goals
+
+…
+
+Technical Requirements
+
+An application in Processing coded in JAVA
+Archived in GitHub; shared with the professor over Slack
+Shared on OpenProcessing; designing for that platform.
+An application which shows an understanding of Primitives, Variables, Functions, Classes, and Arrays.
+
+Code requirements
+
+All code must be commented.
+All code from another source must be documented and significantly transformed from original code.
+Violations of this will be ruled as academic dishonesty and dealt w according to syllabus. 
+Please refer to syllabus for more information.
+
+
+Scope of Work and Work Flow
+
+Recommendations:
+Spend only 1/2 time of schedule developing work and prototyping
+Spend 1/2 time in iteration from user feedback
+2x class hours should be the goal
+
+Process
+
+Come up with a set of user goals
+
+When thinking about what you are deciding on for a project, ideation is key. What are things you would like someone to do when interacting with your work? What are principal actions/activities you find interesting as an end user when encountering software?
+Try to come up with a series of actions that someone will execute using your program.
+
+Example:
+
+I want a human to look for an answer within a series of shapes on the screen, which are transparent at times, and moving randomly. 
+
+When the user touches any object with the mouse pointer, the behavior will change in a way that will suggest keypresses or mouse gestures that will unlock the shape. A puzzle. 
+
+Solving the puzzle presents rewards: an ecosystem shift in my program: light, color, information, the reveal which will lead user to make new choices. 
+
+This bread crumb trail will have (n) choices that will allow the user think about each decision in a different way.
+
+Principal Narrative Goal
+
+What story are you trying to tell? Here are some possibilities:
+
+Personal, Political, Fictional, Social, Environmental
+
+Find a series of inspirations for your program. Cite your influences in your ideation documentation.
+
+Example:
+
+I really like the online game A Dark Room. 
+
+It’s a simple game that has clicker UI but the narrative is always doing something new. 
+
+There’s a momentum which takes place over hours of gameplay.
+
+[link]
+
+Document your workflow
+
+A well tested method of designing is 
+
+ideology
+paper prototype
+digital prototype (alpha)
+testing
+iteration (beta)
+testing
+final
+
+Sharing and Submission of Project
+
+begin w drawings of your ideation
+write out classes in pseudo code before settling on a digital prototype to maximize time and effort in working
+work in small digital prototypes 
+develop functions classes independently and test to insure modularity of the project
+share dm on Slack to professor
+
+Follow the architecture of designing one of the following
+
+Installation
+Game
+Education
+Performance 
+
+Weekly check ins on Slack
+
+Draw out a scenario of what a user interaction would look like
+
+Upload project to your GitHub and OpenProcessing by Friday 10/3 before class.
